@@ -1,1 +1,72 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Business Game - Le Petit Paumé</title>
+    <link href='style.css' rel='stylesheet'>
+  </head>
+  <body>
 
+    <h1>Business Game - Le Petit Paumé</h1>
+
+    <center>
+    <figure>
+    	<img class="macaron_RPPP" src="images/macaron_rppp_2019.png" alt="Macaron Petit Paumé année 2019" width="200">
+    	<figcaption>Macaron RPPP de la 50ème édition</figcaption>
+    </figure>
+    </center>
+    
+    <p class="introduction">La prise de décision dans un contexte de transformation de l'écosystème et de l'environnement concurrentiel</p>
+    <p>Ce Business Game a pour objectif de vous confronter à un <mark>contexte de prise de décision</mark> sous contrainte de temps dans un environnement concurrentiel.<br />
+    Il s'agit, par équipe de 5 à 6 personnes, de vous confronter à...</p>
+    
+    <p>Pour commencer ce business game, nous vous proposons de répondre à un questionnaire de personnalité afin de définir votre rôle au sein du bureau du Petit Paumé</p>
+
+    <p>
+    	<a href="https://form.jotformeu.com/82624972234359" title="Quiz de Personnalité" target="_Blank">Commencer le <strong>Quiz</strong></a>
+    </p>
+
+    <p>
+      <a href="https://makersboard.me/accueil" title="site de l'emlyon" target="_Blank">Commencer le <strong>jeu</strong></a>
+    </p>
+
+    
+    <p>
+    	<a href="lepetitpaume_etatsfinanciers.pdf">Télécharger les états financiers du PP</a>
+    </p>
+
+    
+    <p>A beautiful app, <strong>very beautiful</strong> app</p>
+
+    <h3>Votre équipe</h3>
+    <p>Le choix de votre équipe est aléatoire, il sera effectué suite à votre réponse au questionnaire suivant.</p>
+    <p>Vous pouvez accéder au site via le lien</p>
+    <p>
+    	<a href="dossier_test/index2.html" target="_Blank">suivant</a>
+	</p>
+
+	<ol>
+		<li>
+			<a href="#Président">Le Président</a></li>
+		<li>Responsable évènementiel</li>
+		<li>Responsable digital</li>
+	</ol>
+
+	<p>Test Saut de Ligne</p>
+	<p>Test Saut de Ligne</p>
+	<p>Test Saut de Ligne</p>
+	<p>Test Saut de Ligne</p>
+	<p>Test Saut de Ligne</p>
+	<p>Test Saut de Ligne</p>
+	<p>Test Saut de Ligne</p>
+	<p>Test Saut de Ligne</p>
+	<p>Test Saut de Ligne</p>
+	<p>Test Saut de Ligne</p>
+	<p>Test Saut de Ligne</p>
+	<p>Test Saut de Ligne</p>
+	<p>Test Saut de Ligne</p>
+
+	<h3 id="Président">Le Président</h3>
+
+    <p>By Le Petit Paumé</p>
+  </body>
+</html>
